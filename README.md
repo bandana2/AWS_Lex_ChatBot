@@ -1,10 +1,7 @@
 # Conversational UI Powered by Amazon Lex
 
 ## Steps to get start
-
-In the project directory, you can run:
-
-### `Clone Repository`
+[^1]: `Clone Repository`
 
 
 ### `run npm install`

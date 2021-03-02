@@ -16,10 +16,10 @@ Which installs all the required libraries, ensure you have below components inst
 
 We have trained bot with very few questions to just explore the capablities of Lex. you may try ask below questions:
 
-`1. what is GDO KPI Dashboard`
-`2. Who is Application Manager for the GDO KPI Dashboard`
-`3. what is IMPACT`
-`4. How to Get Access to Impact`
+* `1. what is GDO KPI Dashboard`
+* `2. Who is Application Manager for the GDO KPI Dashboard`
+* `3. what is IMPACT`
+* `4. How to Get Access to Impact`
 
 ## Needs More Information
 

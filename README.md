@@ -6,8 +6,8 @@
 
 ## `Review your node modules to see if below packages installed`
 Which installs all the required libraries, ensure you have below components installed properly to work Lex:
-`aws-amplify/auth
-`aws-amplify/ui
+* `aws-amplify/auth`
+* `aws-amplify/ui`
 
 
 ### `What questions you can ask ?`

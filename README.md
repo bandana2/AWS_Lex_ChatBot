@@ -4,13 +4,11 @@
 * `Clone Repository`
 * `run npm install`
 
-## `run npm install the below packages`
+## `Review your node modules to see if below packages installed`
 Which installs all the required libraries, ensure you have below components installed properly to work Lex:
-@aws-amplify/auth
-@aws-amplify/interactions
-@aws-amplify/storage
-@aws-amplify/ui
-@aws-amplify/xr aws-amplify
+`aws-amplify/auth
+`aws-amplify/ui
+
 
 ### `What questions you can ask ?`
 
